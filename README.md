@@ -21,6 +21,8 @@ Example 1:
             Enter the message: hello
             Encoded message: 9p0olleh9p0
 Example 2:
+
+
             Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): D
             Enter the message: 9p0olleh9p0
             Decoded message: hello
