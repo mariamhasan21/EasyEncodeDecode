@@ -1,20 +1,22 @@
-MessageEncoder
+**MessageEncoder**
 Overview
 
-MessageEncoder is a simple Python tool that allows users to encode and decode messages by reversing the text and adding random characters for an extra layer of fun. Whether you're looking for a fun way to scramble messages or create simple secret codes, this tool is a quick and easy solution!
-Features
+MessageEncoder is a simple Python tool that allows users to encode and decode messages by reversing the text and adding random characters for an extra layer of fun. 
 
-    Encoding: Reverses the input message and adds random characters to the beginning and end if the message is longer than three characters.
-    Decoding: Removes the added random characters (if any) and restores the original message by reversing it again.
-    User-friendly interface with easy-to-follow prompts.
+**Features**
 
-How to Use
+1. Encoding: Reverses the input message and adds random characters to the beginning and end if the message is longer than three characters.
+2. Decoding: Removes the added random characters (if any) and restores the original message by reversing it.
 
-    Run the program.
-    Select E to encode a message or D to decode a message.
-    Enter the message you wish to encode or decode:
-    The program will display the encoded or decoded result.
-    Press q to quit the program.
+
+**How to Use**
+
+1. Run the program.
+2. Select E to encode a message or D to decode a message.
+3. Enter the message you wish to encode or decode:
+4. The program will display the encoded or decoded result.
+5. Press q to quit the program.
+
 Example 1:
 
             Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): E
