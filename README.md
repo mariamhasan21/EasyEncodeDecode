@@ -19,12 +19,16 @@ MessageEncoder is a simple Python tool that allows users to encode and decode me
 
 Example 1:
 
-            Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): E
-            Enter the message: hello
-            Encoded message: 9p0olleh9p0
+```
+Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): E
+Enter the message: hello
+Encoded message: 9p0olleh9p0
+```
+
 Example 2:
 
-
-            Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): D
-            Enter the message: 9p0olleh9p0
-            Decoded message: hello
+```
+Please enter 'E' for Encoding And 'D' For decoding (Press 'q' to break): D
+Enter the message: 9p0olleh9p0
+Decoded message: hello
+```
